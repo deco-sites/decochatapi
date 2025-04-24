@@ -1,5 +1,6 @@
 {
   "imports": {
+    "@deco/mcp": "jsr:@deco/mcp@^0.3.5",
     "deco/": "https://cdn.jsdelivr.net/gh/deco-cx/deco@1.115.4/",
     "@cliffy/prompt": "jsr:@cliffy/prompt@^1.0.0-rc.5",
     "@core/asyncutil": "jsr:@core/asyncutil@^1.0.0",
